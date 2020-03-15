@@ -1,0 +1,20 @@
+{
+  "name": "fusion-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fusion-cli": "^2.8.0",
+    "fusion-core": "^2.2.0",
+    "fusion-plugin-react-helmet-async": "^2.2.2",
+    "fusion-react": "^4.0.0",
+    "fusion-tokens": "^2.1.1",
+    "isomorphic-fetch": "^2.2.1",
+    "koa-bodyparser": "^4.2.1",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  },
+  "scripts": {
+    "dev": "fusion dev"
+  }
+}
